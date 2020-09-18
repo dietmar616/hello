@@ -1,0 +1,39 @@
+C:\Users\dious\source\repos\Introduction\Average\bin\Debug\netcoreapp3.1\Average.exe
+C:\Users\dious\source\repos\Introduction\Average\bin\Debug\netcoreapp3.1\Average.deps.json
+C:\Users\dious\source\repos\Introduction\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.json
+C:\Users\dious\source\repos\Introduction\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.dev.json
+C:\Users\dious\source\repos\Introduction\Average\bin\Debug\netcoreapp3.1\Average.dll
+C:\Users\dious\source\repos\Introduction\Average\bin\Debug\netcoreapp3.1\Average.pdb
+C:\Users\dious\source\repos\Introduction\Average\obj\Debug\netcoreapp3.1\Average.csprojAssemblyReference.cache
+C:\Users\dious\source\repos\Introduction\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfoInputs.cache
+C:\Users\dious\source\repos\Introduction\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfo.cs
+C:\Users\dious\source\repos\Introduction\Average\obj\Debug\netcoreapp3.1\Average.csproj.CoreCompileInputs.cache
+C:\Users\dious\source\repos\Introduction\Average\obj\Debug\netcoreapp3.1\Average.dll
+C:\Users\dious\source\repos\Introduction\Average\obj\Debug\netcoreapp3.1\Average.pdb
+C:\Users\dious\source\repos\Introduction\Average\obj\Debug\netcoreapp3.1\Average.genruntimeconfig.cache
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Average\bin\Debug\netcoreapp3.1\Average.exe
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Average\bin\Debug\netcoreapp3.1\Average.deps.json
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.json
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.dev.json
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Average\bin\Debug\netcoreapp3.1\Average.dll
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Average\bin\Debug\netcoreapp3.1\Average.pdb
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Average\obj\Debug\netcoreapp3.1\Average.csprojAssemblyReference.cache
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfo.cs
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Average\obj\Debug\netcoreapp3.1\Average.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Average\obj\Debug\netcoreapp3.1\Average.dll
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Average\obj\Debug\netcoreapp3.1\Average.pdb
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Average\obj\Debug\netcoreapp3.1\Average.genruntimeconfig.cache
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Average\bin\Debug\netcoreapp3.1\Average.exe
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Average\bin\Debug\netcoreapp3.1\Average.deps.json
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.json
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.dev.json
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Average\bin\Debug\netcoreapp3.1\Average.dll
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Average\bin\Debug\netcoreapp3.1\Average.pdb
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Average\obj\Debug\netcoreapp3.1\Average.csprojAssemblyReference.cache
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfo.cs
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Average\obj\Debug\netcoreapp3.1\Average.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Average\obj\Debug\netcoreapp3.1\Average.dll
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Average\obj\Debug\netcoreapp3.1\Average.pdb
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Average\obj\Debug\netcoreapp3.1\Average.genruntimeconfig.cache

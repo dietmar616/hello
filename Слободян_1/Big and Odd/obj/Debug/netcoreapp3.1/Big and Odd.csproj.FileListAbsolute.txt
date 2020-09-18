@@ -1,0 +1,38 @@
+C:\Users\dious\source\repos\Introduction\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.exe
+C:\Users\dious\source\repos\Introduction\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.deps.json
+C:\Users\dious\source\repos\Introduction\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.runtimeconfig.json
+C:\Users\dious\source\repos\Introduction\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.runtimeconfig.dev.json
+C:\Users\dious\source\repos\Introduction\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.dll
+C:\Users\dious\source\repos\Introduction\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.pdb
+C:\Users\dious\source\repos\Introduction\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.AssemblyInfoInputs.cache
+C:\Users\dious\source\repos\Introduction\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.AssemblyInfo.cs
+C:\Users\dious\source\repos\Introduction\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.csproj.CoreCompileInputs.cache
+C:\Users\dious\source\repos\Introduction\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.dll
+C:\Users\dious\source\repos\Introduction\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.pdb
+C:\Users\dious\source\repos\Introduction\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.genruntimeconfig.cache
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.exe
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.deps.json
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.runtimeconfig.json
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.runtimeconfig.dev.json
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.dll
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.pdb
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.csprojAssemblyReference.cache
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.AssemblyInfo.cs
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.dll
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.pdb
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.genruntimeconfig.cache
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.exe
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.deps.json
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.runtimeconfig.json
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.runtimeconfig.dev.json
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.dll
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Big and Odd\bin\Debug\netcoreapp3.1\Big and Odd.pdb
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.csprojAssemblyReference.cache
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.AssemblyInfo.cs
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.dll
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.pdb
+C:\Users\user\Desktop\main program\Programs\Слободян_1\Big and Odd\obj\Debug\netcoreapp3.1\Big and Odd.genruntimeconfig.cache

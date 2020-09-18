@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Calculate\bin\Debug\netcoreapp3.1\Calculate.exe
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Calculate\bin\Debug\netcoreapp3.1\Calculate.deps.json
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Calculate\bin\Debug\netcoreapp3.1\Calculate.runtimeconfig.json
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Calculate\bin\Debug\netcoreapp3.1\Calculate.runtimeconfig.dev.json
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Calculate\bin\Debug\netcoreapp3.1\Calculate.dll
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Calculate\bin\Debug\netcoreapp3.1\Calculate.pdb
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Calculate\obj\Debug\netcoreapp3.1\Calculate.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Calculate\obj\Debug\netcoreapp3.1\Calculate.AssemblyInfo.cs
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Calculate\obj\Debug\netcoreapp3.1\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Calculate\obj\Debug\netcoreapp3.1\Calculate.dll
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Calculate\obj\Debug\netcoreapp3.1\Calculate.pdb
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Calculate\obj\Debug\netcoreapp3.1\Calculate.genruntimeconfig.cache

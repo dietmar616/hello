@@ -1,0 +1,12 @@
+C:\Users\dious\source\repos\Introduction\N-th Digit\bin\Debug\netcoreapp3.1\N-th Digit.exe
+C:\Users\dious\source\repos\Introduction\N-th Digit\bin\Debug\netcoreapp3.1\N-th Digit.deps.json
+C:\Users\dious\source\repos\Introduction\N-th Digit\bin\Debug\netcoreapp3.1\N-th Digit.runtimeconfig.json
+C:\Users\dious\source\repos\Introduction\N-th Digit\bin\Debug\netcoreapp3.1\N-th Digit.runtimeconfig.dev.json
+C:\Users\dious\source\repos\Introduction\N-th Digit\bin\Debug\netcoreapp3.1\N-th Digit.dll
+C:\Users\dious\source\repos\Introduction\N-th Digit\bin\Debug\netcoreapp3.1\N-th Digit.pdb
+C:\Users\dious\source\repos\Introduction\N-th Digit\obj\Debug\netcoreapp3.1\N-th Digit.AssemblyInfoInputs.cache
+C:\Users\dious\source\repos\Introduction\N-th Digit\obj\Debug\netcoreapp3.1\N-th Digit.AssemblyInfo.cs
+C:\Users\dious\source\repos\Introduction\N-th Digit\obj\Debug\netcoreapp3.1\N-th Digit.csproj.CoreCompileInputs.cache
+C:\Users\dious\source\repos\Introduction\N-th Digit\obj\Debug\netcoreapp3.1\N-th Digit.dll
+C:\Users\dious\source\repos\Introduction\N-th Digit\obj\Debug\netcoreapp3.1\N-th Digit.pdb
+C:\Users\dious\source\repos\Introduction\N-th Digit\obj\Debug\netcoreapp3.1\N-th Digit.genruntimeconfig.cache

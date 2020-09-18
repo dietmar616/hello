@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Pure Divisor\obj\Debug\netcoreapp3.1\Pure Divisor.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Pure Divisor\obj\Debug\netcoreapp3.1\Pure Divisor.AssemblyInfo.cs
+C:\Users\user\Desktop\main program\Programs\Introduction-master\Pure Divisor\obj\Debug\netcoreapp3.1\Pure Divisor.csproj.CoreCompileInputs.cache

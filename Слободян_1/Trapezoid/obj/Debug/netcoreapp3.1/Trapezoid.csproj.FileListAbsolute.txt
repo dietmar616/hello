@@ -1,0 +1,12 @@
+C:\Users\dious\source\repos\Introduction\Trapezoid\bin\Debug\netcoreapp3.1\Trapezoid.exe
+C:\Users\dious\source\repos\Introduction\Trapezoid\bin\Debug\netcoreapp3.1\Trapezoid.deps.json
+C:\Users\dious\source\repos\Introduction\Trapezoid\bin\Debug\netcoreapp3.1\Trapezoid.runtimeconfig.json
+C:\Users\dious\source\repos\Introduction\Trapezoid\bin\Debug\netcoreapp3.1\Trapezoid.runtimeconfig.dev.json
+C:\Users\dious\source\repos\Introduction\Trapezoid\bin\Debug\netcoreapp3.1\Trapezoid.dll
+C:\Users\dious\source\repos\Introduction\Trapezoid\bin\Debug\netcoreapp3.1\Trapezoid.pdb
+C:\Users\dious\source\repos\Introduction\Trapezoid\obj\Debug\netcoreapp3.1\Trapezoid.AssemblyInfoInputs.cache
+C:\Users\dious\source\repos\Introduction\Trapezoid\obj\Debug\netcoreapp3.1\Trapezoid.AssemblyInfo.cs
+C:\Users\dious\source\repos\Introduction\Trapezoid\obj\Debug\netcoreapp3.1\Trapezoid.csproj.CoreCompileInputs.cache
+C:\Users\dious\source\repos\Introduction\Trapezoid\obj\Debug\netcoreapp3.1\Trapezoid.dll
+C:\Users\dious\source\repos\Introduction\Trapezoid\obj\Debug\netcoreapp3.1\Trapezoid.pdb
+C:\Users\dious\source\repos\Introduction\Trapezoid\obj\Debug\netcoreapp3.1\Trapezoid.genruntimeconfig.cache
